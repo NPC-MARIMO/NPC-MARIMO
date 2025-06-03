@@ -8,3 +8,5 @@ Started coding in Feb 2024. Built stuff, broke stuff, learned fast. Now vibing w
 I’m driven, always leveling up my skills, and love sharing knowledge along the way.
 
 When I’m not coding, you’ll find me deep into chess, sketching, or bingeing anime.
+
+Visit my portfolio - https://mosshead.vercel.app
