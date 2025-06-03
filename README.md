@@ -1,8 +1,10 @@
-Hii, I'm Shivang Pandey 
-I am a self-taught developer
-I am currently learning Nextjs , Typescript and Backend
-I am looking for the opportunities to develop my skills and learn new things.
-My Portfolio - mosshead.vercel.app
+Hi, I am Shivang Pandey
+- Building Chaos into Code
 
-I like Chess , let's play sometime 
-my chess.com id - Shivang_7
+I'm a self-taught MERN Full-Stack Developer passionate about building creative, impactful projects — and yeah, I'm 18.
+
+Started coding in Feb 2024. Built stuff, broke stuff, learned fast. Now vibing with frontend, backend, APIs, SSR/CSR, proxies & more.
+
+I’m driven, always leveling up my skills, and love sharing knowledge along the way.
+
+When I’m not coding, you’ll find me deep into chess, sketching, or bingeing anime.
