@@ -51,8 +51,8 @@
 | Project | Stack | Summary |
 |--------|-------|---------|
 | 🎨 **Real-time Color Prediction Game** | MERN + Socket.io | A real money betting game with wallet, withdrawal, and admin panel |
-| 📚 **GlowUp Course Website** | HTML/CSS/JS | Beautiful frontend for an e-learning platform |
-| 💬 **Social Media Platform** | MERN | Chatting, families, memory capsules, vaults & roles |
+| 📚 **Evo Legacy Vault** | MERN | Beautiful frontend for an e-learning platform |
+| 💬 **Evo Trends** | MERN + Paypal | Chatting, families, memory capsules, vaults & roles |
 
 ---
 
