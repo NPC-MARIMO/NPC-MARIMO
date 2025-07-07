@@ -60,7 +60,7 @@
 
 - 🎮 On my wishlist: **Elden Ring** ⚔️  
 - ✍️ I sketch unfinished art pieces as a style 🎨  
-- 🧠 Obsessive world-builder: I'm planning a **post-apocalyptic RPG/manga** trio vs the **Leviathan**  
+- 🧠 Obsessive world-builder: I'm planning a **post-apocalyptic RPG/manga** trio vs the **NYx'Zaroth**  
 - 🕹️ Favorite aesthetics: Prince of Persia, DMC, Assassin’s Creed  
 - 🧪 Trying to learn something weird & new every month
 
