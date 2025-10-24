@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Shivang (aka Mosscript) 👋</h1>
 
 <p align="center">
-  💻 Web & App Dev | 🧠 Builder of Creative Chaos | 🎮 Gamer Soul | 🧩 Puzzle Solver
+  💻 Web & App Dev | 🧠 Forging Chaos into Code | 🎮 Gamer Soul | 🧩 Puzzle Solver
 </p>
 
 ---
