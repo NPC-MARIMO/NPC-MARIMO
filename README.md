@@ -52,7 +52,7 @@
 
 ### ⚡ Fun Facts
 
-- 🎮 On my wishlist: **Elden Ring** ⚔️  
+- 🎮 On my wishlist: **Elden Lord** ⚔️  
 - ✍️ I sketch unfinished art pieces as a style 🎨  
 - 🧠 Obsessive world-builder: I'm planning a **post-apocalyptic RPG/manga (Abysswalkers)** trio vs the **NYx'Zaroth**  
 - 🕹️ Favorite aesthetics: Prince of Persia, DMC, Assassin’s Creed  
