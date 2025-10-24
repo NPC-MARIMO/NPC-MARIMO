@@ -73,7 +73,7 @@
 ### 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivang-pandey-02260a2b4/) 
-- 🌐 [Portfolio](https://mosshead.vercel.app/) 
+- 🌐 [Portfolio](https://mosscript.vercel.app/) 
 - 📫 Reach me via GitHub issues 
 
 ---
