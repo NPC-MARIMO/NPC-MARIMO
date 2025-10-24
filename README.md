@@ -15,13 +15,7 @@
 - 🧠 Transitioning into AI/ML 
 - ⚛️ Expertise in Next.js, MERN
 - 🛠️ I build **modern web & mobile apps** with creative, complex ideas—'cause boring is illegal in my world.
-- 🚀 I’ve participated in 2 hackathons: **Reimagine** & **Apihub**.
-- 🎯 Currently working on a **real-money color prediction game** (MERN + Socket.io)
-- 🗂️ Dream projects:  
-  • Multiplayer platforms  
-  • Real-time collab tools  
-  • RPG-based systems (Yup, I’m building a world...)
-
+- 🚀 I’ve participated in 2 hackathons: **Reimagine** & **Apihub**
 ---
 
 ### 🧠 Tech Stack I vibe with
