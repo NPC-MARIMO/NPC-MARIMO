@@ -36,11 +36,8 @@
 
 ### 🌱 Currently Learning
 
-- 🕸️ Advanced **Next.js** & SSR/SSG stuff  
-- 🧠 Leveling up my **WebSocket/Game logic** skills  
-- 🔐 Security best practices for real-world applications  
-- ☁️ CI/CD and DevOps pipeline structuring
-
+- 🕸️ Machine Learning, Deep Learning, NLP  
+- 🧠 Artificial Intelligence and Machine Learning
 ---
 
 ### 💡 Featured Projects
