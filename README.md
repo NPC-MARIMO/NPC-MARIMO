@@ -1,6 +1,6 @@
 <!-- Profile README for Mosshead -->
 
-<h1 align="center">Hey, I'm Shivang (aka Mosshead) 👋</h1>
+<h1 align="center">Hey, I'm Shivang (aka Mosscript) 👋</h1>
 
 <p align="center">
   💻 Web & App Dev | 🧠 Builder of Creative Chaos | 🎮 Gamer Soul | 🧩 Puzzle Solver
