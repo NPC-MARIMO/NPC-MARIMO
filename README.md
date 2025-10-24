@@ -11,6 +11,9 @@
 ### 🧩 About Me
 
 - 🎓 Diploma in Computer Science (2022–2025)
+- 🎓 Doing Bachelor in Artificial Intelligence and Machine Learning (2025–2028)
+- 🧠 Transitioning into AI/ML 
+- ⚛️ Expertise in Next.js, MERN
 - 🛠️ I build **modern web & mobile apps** with creative, complex ideas—'cause boring is illegal in my world.
 - 🚀 I’ve participated in 2 hackathons: **Reimagine** & **Apihub**.
 - 🎯 Currently working on a **real-money color prediction game** (MERN + Socket.io)
