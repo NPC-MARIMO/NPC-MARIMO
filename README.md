@@ -44,6 +44,9 @@
 
 | Project | Stack | Summary |
 |--------|-------|---------|
+
+| 📚 **Debritt** | Next.js + Three.js + Fastapi + Tensorflow + RK4 + Kalman Filtering + TLE dataset | A modular space safety system that detects orbital debris, predicts satellite and debris trajectories, evaluates collision probability, and provides avoidance recommendations for active satellites. |
+| 🎨 **Genetalk - Cross Species Communication** | MERN + Tensorflow + Fastapi + opencv + RNN + CNN | AI-powered cross-species communication platform that interprets animal behavioral signals into human-readable emotional and intent insights in real time. |
 | 🎨 **Real-time Color Prediction Game** | MERN + Socket.io | A real money betting game with wallet, withdrawal, and admin panel |
 | 📚 **Evo Legacy Vault** | MERN | Beautiful frontend for an e-learning platform |
 | 💬 **Evo Trends** | MERN + Paypal | Chatting, families, memory capsules, vaults & roles |
